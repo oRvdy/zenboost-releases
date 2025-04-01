@@ -1,0 +1,1 @@
+## Novidades\n- Atualização de segurança aplicada\n- Canal do Discord adicionado para comunicação\n- Pequenos ajustes na interface\n\n## Melhorias\n- Desempenho aprimorado\n- Interface mais intuitiva\n- Correções de bugs
